@@ -550,7 +550,7 @@ section{
                 <div class="scroll">Scroll For Next Page ↓</div>
             </div>
             <div class="right">
-                <img src="photo1.jpg">
+                <img src="israt.jpeg">
                 <div class="love love1">💙</div>
                 <div class="love love2">🤍</div>
                 <div class="love love3">🩵</div>
@@ -575,13 +575,13 @@ section{
 𝑰 𝒘𝒂𝒔𝒏'𝒕 𝒕𝒉𝒆𝒓𝒆, 𝒃𝒖𝒕 𝑰 𝒕𝒉𝒊𝒏𝒌 𝒕𝒉𝒆 𝒘𝒉𝒐𝒍𝒆 𝒉𝒐𝒔𝒑𝒊𝒕𝒂𝒍 𝒎𝒖𝒔𝒕 𝒉𝒂𝒗𝒆 𝒔𝒉𝒐𝒏𝒆 𝒘𝒊𝒕𝒉 𝒍𝒊𝒈𝒉𝒕, 𝒃𝒆𝒄𝒂𝒖𝒔𝒆 𝒚𝒐𝒖 𝒃𝒓𝒐𝒖𝒈𝒉𝒕 𝒉𝒂𝒑𝒑𝒊𝒏𝒆𝒔𝒔 𝒂𝒏𝒅 𝒍𝒊𝒈𝒉𝒕 𝒘𝒊𝒕𝒉 𝒚𝒐𝒖.‪‪❤︎‬
                 </div>
                 <div class="msg-photo crown-left">
-                    <img src="israt2.jpg">
+                    <img src="israt2.jpeg">
                 </div>
             </div>
             
             <div class="msg-block">
                 <div class="msg-photo crown-right">
-                    <img src="israt3.jpg">
+                    <img src="israt3.jpeg">
                 </div>
                 <div class="msg-text text-right-align">
                     𝑯𝒂𝒑𝒑𝒚 𝑩𝒊𝒓𝒕𝒉𝒅𝒂𝒚, 𝑰𝒔𝒓𝒂𝒕!<br><br>
