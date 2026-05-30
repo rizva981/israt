@@ -382,7 +382,7 @@ section{
 
 /* PAGE 3 - BLUR BACKGROUND */
 #wish{
-    background: url('israt.jpg') no-repeat center center;
+    background: url('israt.jpeg') no-repeat center center;
     background-size: cover;
     display: flex;
     justify-content: center;
