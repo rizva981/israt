@@ -546,7 +546,7 @@ section{
         <div class="home-box">
             <div class="left">
                 <h1 class="title">Happy <br> Birthday</h1>
-                <div class="name">𝑺𝒂𝒅𝒊𝒂 𝑰𝒔𝒓𝒂𝒕‪‪❤︎‬<br><small><i><font size="2">Faitytale</font></i></small></div>
+                <div class="name">𝑺𝒂𝒅𝒊𝒂 𝑰𝒔𝒓𝒂𝒕‪‪❤︎‬<br><small><i><font size="2">Fairytale</font></i></small></div>
                 <div class="scroll">Scroll For Next Page ↓</div>
             </div>
             <div class="right">
